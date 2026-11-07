@@ -1,1 +1,9 @@
 .venv/
+
+.vscode/
+
+ideas.txt
+
+utils/
+
+__pycache__/
