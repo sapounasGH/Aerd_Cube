@@ -1,1 +1,7 @@
 .venv/
+
+utils/
+
+ideas.txt
+
+__pycache__/
