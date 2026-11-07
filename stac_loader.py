@@ -25,5 +25,5 @@ class StacLoader:
             query.items(),
             bands=bands,
             resolution=resolution,
-            chunks=chunks
+            # chunks=chunks
         )
